@@ -6,7 +6,7 @@ function Footer() {
   return (
     <> 
         <div class="wave-container wave">
-            <p>© {year}, Developed & Designed with ❤️ by <a className='footer_faizan' target='_faizan' href='https://faizan619.github.io/Faizan_Portfolio/'>Faizan Alam</a></p>
+            <p>Designed by<a className='footer_faizan'> Anshum & Aman</a></p>
         </div>
     </>
   )

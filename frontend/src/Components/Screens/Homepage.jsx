@@ -84,7 +84,7 @@ function Homepage() {
           // poss={{'flexDirection':'row-reverse'}}
           uniId={"uni"}
         />
-        <CodingPage
+        {/* <CodingPage
           title="What We Earned?"
           path="https://drive.google.com/file/d/1wynjrv73vmnbzIsonh8dfJy_SweR3sq1/view?usp=sharing"
           // info={<>A <mark>Programmer</mark> has no Limitation towards <mark>Learning and Improving</mark> the World Through its Skills and Knowledge</>}
@@ -92,7 +92,7 @@ function Homepage() {
           con="View Certificate"
           image={MoreCod}
           // poss={{'flexDirection':'row'}}
-        />
+        /> */}
         <Feedback/>
         <Footer/>
         {/* <a href="http://" target="_blank" rel="noopener noreferrer"></a> */}

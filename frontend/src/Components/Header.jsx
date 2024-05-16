@@ -14,7 +14,7 @@ function Header() {
         <>
           {/* <NavLink to='/login'><button className='Headerbtn Headerbtn1 btn'>Login</button></NavLink>
             <NavLink to='/register'><button className='Headerbtn Headerbtn2 btn'>Register</button></NavLink> */}
-            <NavLink to='/logout'><button className='Headerbtn Headerbtn2 btn'>Logout</button></NavLink>
+            {/* <NavLink to='/logout'><button className='Headerbtn Headerbtn2 btn'>Logout</button></NavLink> */}
         </>
       )
     }
@@ -22,8 +22,9 @@ function Header() {
       return(
         <>
           
-          <NavLink to='/login'><button className='Headerbtn Headerbtn1 btn'>Login</button></NavLink>
-            <NavLink to='/register'><button className='Headerbtn Headerbtn2 btn'>Register</button></NavLink>
+          {/* <NavLink to='/login'><button className='Headerbtn Headerbtn1 btn'>Login</button></NavLink> */}
+            {/* <NavLink to='/register'><button className='Headerbtn Headerbtn2 btn'>Register</button></NavLink> */}
+            
             {/* <NavLink to='/logout'><button className='Headerbtn Headerbtn2 btn'>Logout</button></NavLink> */}
         </>
       )
